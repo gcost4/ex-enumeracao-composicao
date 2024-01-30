@@ -1,6 +1,5 @@
 # OO e Composição de Objetos em Java
 
-## O que você vai aprender
 - Composição de objetos
 - Tipos enumerados (enumerações)
 
